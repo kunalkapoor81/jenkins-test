@@ -8,7 +8,7 @@ pipeline{
                    }
               stage("run backend") {
                   steps {
-                        echo "executing npm"..."
+                        echo "executing npm..."
                         }
                    }
                 }
