@@ -11,7 +11,7 @@ pipeline{
                    }
               stage("run backend") {
                   steps {
-                        echo "executing npm v2.0..."
+                        echo "executing npm - BIG CHANGE..."
                         }
                    }
                 }
