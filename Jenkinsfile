@@ -11,7 +11,7 @@ pipeline{
                    }
               stage("run backend") {
                   steps {
-                        echo "executing npm..."
+                        echo "executing npm v2.0..."
                         }
                    }
                 }
